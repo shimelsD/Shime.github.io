@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,56 +9,42 @@ redirect_from:
 
 {% include base_path %}
 
+Below are some highlights from my CV.
+
+For more information, please see the PDF of my **[Full CV](../files/cv.pdf)**.
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* BSc in Health Informatics, University of Gondar, 2019
+* MPH in Health Informatics, University of Gondar, 2022
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* September 2022: Lecturer
+  * Wollo University
+  * Duties include: Teaching, Research, Community service
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* September 2019: GA-II & Assistant Lecturer
+  * Wollo University
+  * Duties included: Assisting undergraduate students
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Quantitative and Qualitative research
+* Public Health Informatics
+* Statistical modeling
+* Programming languages
+  * C++
+  * Java
+  * R
+  * Python
+* Machine learning
+* Web development
+* Database
+* GIS
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+Below is a list of my publications.  You can also look at <a href="https://scholar.google.ca/citations?user=eL7Ies8AAAAJ">Google Scholar</a>, or download a <a href="{{ base_path }}/files/shime_citations.bib">BiBTeX file</a>.<br>
+<script src="https://bibbase.org/show?bib=https%3A%2F%2Fbibbase.org%2Fnetwork%2Ffiles%2F9Fa7aq5LgReBQDjWn&noBootstrap=1&jsonp=1"></script>
+
