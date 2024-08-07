@@ -15,10 +15,7 @@ Here are some of the certificates I have earned through various online learning 
 
 <h1 align="center"> Certifications </h1>
 <table>
- 
-        
-
- <tr>
+  <tr>
     <td width="80%">
       <b> Data Science Orientation</b> | May 2021<br /> <br />
      Offered By: IBM <br />
