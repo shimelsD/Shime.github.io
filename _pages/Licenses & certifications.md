@@ -23,4 +23,4 @@ Here are some of the certificates I have earned through various online learning 
 
 
 
-[![Certificate](path_to_certificate_image.jpg)]([path_to_certificate.pdf](/files/Applied_Data_Science_with_Python___Level_2_Badge20240807-7-iwrc23.pdf))
+[![Applied Data Science with Python Level 2](path_to_certificate_image.jpg)]([path_to_certificate.pdf](/files/Applied_Data_Science_with_Python___Level_2_Badge20240807-7-iwrc23.pdf))
