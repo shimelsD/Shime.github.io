@@ -14,4 +14,4 @@ Here are some of the certificates I have earned through various online learning 
 
 ### Coursera
 
-[![Logistic Regression in R for Public Health](/images/image.png)](https://www.coursera.org/account/accomplishments/verify/MXSMDK4LPKRX)
+[[Logistic Regression in R for Public Health](/images/image.png)](https://www.coursera.org/account/accomplishments/verify/MXSMDK4LPKRX)
