@@ -22,12 +22,11 @@ Here are some of the certificates I have earned through various online learning 
     <td width="80%">
       <b> Data Science Orientation</b> | May 2021<br /> <br />
      Offered By: IBM <br />
-     Learning Platform :  <a href=https://www.coursera.org">Coursera</a><br />
+     Learning Platform :  <a href="https://www.coursera.org">Coursera</a><br />
      <a href="https://www.credly.com/badges/0b0d848b-5fd4-460f-9d53-43198179267c/public_url">View Certificate</a>
     </td>
     <td><image src="../images/DS orientation.jpg" alt="IBM badge 1" /></td>
   </tr>
-
 
    <tr>
     <td width="80%">
