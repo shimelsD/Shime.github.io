@@ -90,6 +90,29 @@ Here are some of the certificates I have earned through various online learning 
     <td><image src="../images/app ds.jpg" alt="IBM badge 7" /></td>
   </tr>      
 
+
+
+<tr>
+    <td width="80%">
+      <b>Introduction to Structured Query Language (SQL)</b> | May 2021<br /> <br />
+     Offered By: University of Michigan <br />
+     Learning Platform :  <a href="https://www.coursera.org/learn/intro-sql">Coursera</a><br />
+     <a href="https://www.coursera.org/account/accomplishments/verify/ZY5MXQ27MKER">View Certificate</a>
+    </td>
+    <td><image src="../images/coursera 2.jpg" alt="LR in R" /></td>
+  </tr>
+
+ <tr>
+    <td width="80%">
+      <b>Fundamentals of Machine Learning for Healthcare</b> | December 2021<br /> <br />
+     Offered By: Stanford University <br />
+     Learning Platform :  <a href="https://www.coursera.org/learn/fundamental-machine-learning-healthcare">Coursera</a><br />
+     <a href="https://www.coursera.org/account/accomplishments/verify/M4DZZN7DXD7A">View Certificate</a>
+    </td>
+    <td><image src="../images/coursera 3.jpg" alt="LR in R" /></td>
+  </tr>
+
+
  <tr>
     <td width="80%">
       <b>Logistic Regression in R for Public Health</b> | December 2022<br /> <br />
@@ -97,7 +120,7 @@ Here are some of the certificates I have earned through various online learning 
      Learning Platform :  <a href="https://www.coursera.org/learn/logistic-regression-r-public-health">Coursera</a><br />
      <a href="https://www.coursera.org/account/accomplishments/verify/MXSMDK4LPKRX">View Certificate</a>
     </td>
-    <td><image src="../images/image.png" alt="LR in R" /></td>
+    <td><image src="../images/coursera 1.jpg" alt="LR in R" /></td>
   </tr>
 
 </table>
