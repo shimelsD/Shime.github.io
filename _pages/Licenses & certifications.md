@@ -87,7 +87,7 @@ Here are some of the certificates I have earned through various online learning 
      Learning Platform :  <a href="https://www.cognitiveclass.ai">CognitiveClass.ai</a><br />
      <a href="https://www.credly.com/badges/813ee73d-fe40-49c7-85d0-b7f193a4c195/public_url">View Certificate</a>
     </td>
-    <td><image src="../images/App data sc with py lv2.jpg" alt="IBM badge 7" /></td>
+    <td><image src="../images/app ds.jpg" alt="IBM badge 7" /></td>
   </tr>      
 
  <tr>
