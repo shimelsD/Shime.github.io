@@ -10,7 +10,7 @@ author_profile: true
 
 Here are some of the certificates I have earned through various online learning platforms.
 
-<!-- ## Certifications -->
+<!-- ## Certifications 
 
 
 <h1 align="center"> Certifications </h1> -->
