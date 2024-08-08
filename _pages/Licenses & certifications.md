@@ -6,14 +6,14 @@ author_profile: true
 ---
 {% include base_path %}
 
-# My Online Course Certificates
+##  My Online Course Certificates 
 
 Here are some of the certificates I have earned through various online learning platforms.
 
 <!-- ## Certifications -->
 
 
-<h1 align="center"> Certifications </h1>
+<h1 align="center"> Certifications </h1> -->
 <table>
   <tr>
     <td width="80%">
