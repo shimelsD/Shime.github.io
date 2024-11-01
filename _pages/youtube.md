@@ -19,3 +19,15 @@ The system was designed to address the current challenges faced by the Universit
 Furthermore, the project incorporates best practices in software development, including modular design and thorough testing, to ensure the system's reliability, maintainability, and adaptability to future needs. The DCIS was envisioned to be a scalable solution that can be extended or integrated with other systems within the hospital, thereby contributing to the broader goal of improving healthcare delivery at the University of Gondar Hospital.
    
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7CgK-pLkk6k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+<br />
+<br />
+<hr />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
