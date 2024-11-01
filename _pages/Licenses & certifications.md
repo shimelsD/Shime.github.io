@@ -121,7 +121,16 @@ Here are some of the certificates I have earned through various online learning 
 
 </table>
 
-
+<br />
+<br />
+<br />
+<br />
+<hr />
+<br />
+<br />
+<br />
+<br />
+<br />
 
 
 
