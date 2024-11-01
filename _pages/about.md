@@ -17,3 +17,10 @@ In preparation for my future PhD studies, I possess a strong passion for public 
 <div style="text-align: justify">
 I am also deeply intrigued by the concept of explainable AI. As a potential research focus for my PhD, I am keen to explore methodologies and techniques that can enhance the interpretability and transparency of AI models in healthcare. I recognize the importance of understanding how AI algorithms arrive at their decisions, especially in critical healthcare applications. By investigating explainable AI, I aim to develop methods that provide insights into the reasoning and decision-making processes of AI systems, empowering healthcare professionals and stakeholders to trust and utilize these technologies more effectively. 
 </div>
+<br/>
+<hr/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
