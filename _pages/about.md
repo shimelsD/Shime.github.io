@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 <div style="text-align: justify">
+  <hr />
 I'm a lecturer of health informatics at <a href="https://wu.edu.et" target="_blank" > Wollo University</a> since September 2022. I have studied Master of Public Health(MPH) in health informatics from <a href="https://uog.edu.et" target="_blank" >University of Gondar</a>.
 Currently, as a teacher and researcher, my primary focus revolves around utilizing public data repositories for conducting research. I find great value in the abundance of publicly available datasets, which provide opportunities to explore various aspects of public health and generate evidence-based insights. By leveraging these repositories, I aim to delve into critical research questions, analyze trends, and uncover patterns that contribute to our understanding of public health dynamics. This approach allows me to apply my expertise in data analysis, programming, and statistical techniques to extract meaningful information from diverse public health datasets.
 </div>
