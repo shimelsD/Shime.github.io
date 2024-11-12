@@ -6,7 +6,9 @@ author_profile: true
 ---
 {% include base_path %}
 
-Below is a list of my publications.  You can also look at <a href="https://scholar.google.ca/citations?user=eL7Ies8AAAAJ">Google Scholar</a>, or download a <a href="{{ base_path }}/files/shime_citations.bib">BiBTeX file</a>.<br>
+Below is a list of my publications.  You can also look at <a href="https://scholar.google.ca/citations?user=eL7Ies8AAAAJ">Google Scholar</a>, or download a <a href="{{ base_path }}/files/shime_citations.bib">BiBTeX file</a>.
+<br />
+<br />
 <b>Featured Publications</b>
 <div id="publications1">
     <script type="text/javascript" src="https://bibbase.org/widget.js"></script>
