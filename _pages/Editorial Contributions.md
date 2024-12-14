@@ -6,5 +6,5 @@ author_profile: true
 ---
 {% include base_path %}
 ## Peer reviews
-<embed src="../files/peer_review.pdf" width="500" height="375" 
+<embed src="../files/peer_review.pdf" width="600" height="400" 
  type="application/pdf" />
