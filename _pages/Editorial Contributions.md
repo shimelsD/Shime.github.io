@@ -1,3 +1,4 @@
+---
 layout: archive
 title: "Editorial Contributions"
 permalink: /editorial/
