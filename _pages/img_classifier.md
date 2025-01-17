@@ -39,6 +39,9 @@ function loadImage() {
       classifier.classify(img, gotResult);
     }
   }
+  reader.onerror = function() {
+    document.getElementById("myResult").innerHTML = "Error loading image.";
+  }
   reader.readAsDataURL(input);
 }
 // Callback function when classification has finished
