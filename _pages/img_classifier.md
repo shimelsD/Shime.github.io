@@ -27,9 +27,6 @@ author_profile: true
 let classifier;
 let img;
 
-// Initialize the Image Classifier method with MobileNet.
-classifier = ml5.imageClassifier("MobileNet");
-
 // Function to load the uploaded image
 function loadImage() {
   const input = document.getElementById('imageUpload').files[0];
@@ -43,6 +40,9 @@ function loadImage() {
   }
   reader.readAsDataURL(input);
 }
+
+// Initialize the Image Classifier method with MobileNet.
+classifier = ml5.imageClassifier("MobileNet");
 
 // Callback function when classification has finished
 function gotResult(results) {
