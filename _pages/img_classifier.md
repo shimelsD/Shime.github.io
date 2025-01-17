@@ -16,8 +16,7 @@ author_profile: true
   
 </script>
 <body>
-<h1>Image Classification</h1>
-<h2>With MobileNet and ml5.js</h2>
+<h2> Application of MobileNet and ml5.js</h2>
   
 <div id="myResult">Scanning ...</div>
 <img id="myImage" src="../files/pic 1.jpg" width="100%">
