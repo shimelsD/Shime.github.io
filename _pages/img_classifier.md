@@ -7,7 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-<!DOCTYPE html>
 <html>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.9.4/p5.js">
   
@@ -20,7 +19,7 @@ author_profile: true
 <h2>With MobileNet and ml5.js</h2>
   
 <div id="myResult">Scanning ...</div>
-<img id="myImage" src="pic1.jpg" width="100%">
+<img id="myImage" src="../files/pic1.jpg" width="100%">
 
 <script>
 // A variable to hold the image we want to classify
