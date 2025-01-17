@@ -6,7 +6,7 @@ author_profile: true
 ---
 {% include base_path %}
 
-```html
+``` html
 <html>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.9.4/p5.js"></script>
 <script src="https://unpkg.com/ml5@1/dist/ml5.min.js"></script>
