@@ -1,3 +1,13 @@
+---
+layout: archive
+title: "Image Classifier"
+permalink: /img_clf/
+author_profile: true
+---
+{% include base_path %}
+
+'''html
+
 <html>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.9.4/p5.js">
   
