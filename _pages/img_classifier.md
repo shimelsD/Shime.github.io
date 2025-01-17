@@ -19,7 +19,7 @@ author_profile: true
 <h2>With MobileNet and ml5.js</h2>
   
 <div id="myResult">Scanning ...</div>
-<img id="myImage" src="../files/pic1.jpg" width="100%">
+<img id="myImage" src="../files/pic 1.jpg" width="100%">
 
 <script>
 // A variable to hold the image we want to classify
