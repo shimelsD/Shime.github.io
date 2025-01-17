@@ -9,8 +9,12 @@ author_profile: true
 
 <!DOCTYPE html>
 <html>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.9.4/p5.js"></script>
-<script src="https://unpkg.com/ml5@1/dist/ml5.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.9.4/p5.js">
+  
+</script>
+<script src="https://unpkg.com/ml5@1/dist/ml5.min.js">
+  
+</script>
 <body>
 <h1>Image Classification</h1>
 <h2>With MobileNet and ml5.js</h2>
