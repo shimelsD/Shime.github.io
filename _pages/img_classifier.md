@@ -20,7 +20,7 @@ author_profile: true
 </form>
 
 <div id="myResult">Scanning ...</div>
-<img id="myImage" src="" width="100%">
+<img id="myImage" src="" width="50%">
 
 <script>
 // A variable to hold the image we want to classify
