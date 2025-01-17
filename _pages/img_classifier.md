@@ -22,10 +22,11 @@ author_profile: true
 <div id="myResult">Scanning ...</div>
 <img id="myImage" src="" width="50%">
 
-<!-- Button to classify the uploaded image -->
-<input type="button" value="Classify Image" onclick="classifyImage()">
-
 <script>
+// A variable to hold the image we want to classify
+let classifier;
+let img;
+
 // Initialize the Image Classifier method with MobileNet.
 classifier = ml5.imageClassifier("MobileNet");
 
@@ -38,29 +39,15 @@ function loadImage() {
   reader.onload = function(e) {
     img = document.getElementById('myImage');
     img.src = e.target.result;
-  }
-  reader.onerror = function() {
-    document.getElementById("myResult").innerHTML = "Error loading image.";
+    img.onload = function() {
+      classifier.classify(img, gotResult);
+    }
   }
   reader.readAsDataURL(input);
 }
 
-// Function to classify the loaded image
-function classifyImage() {
-  const img = document.getElementById('myImage');
-  if (!img.src) {
-    document.getElementById("myResult").innerHTML = "No image loaded.";
-    return;
-  }
-  classifier.classify(img, gotResult);
-}
-
 // Callback function when classification has finished
-function gotResult(error, results) {
-  if (error) {
-    document.getElementById("myResult").innerHTML = "Error classifying image.";
-    return;
-  }
+function gotResult(results) {
   // Display the results
   let label = results[0].label;
   let confidence = (results[0].confidence * 100).toFixed(2);
