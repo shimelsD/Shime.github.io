@@ -23,13 +23,14 @@ author_profile: true
 <img id="myImage" src="" width="50%">
 
 <script>
-// A variable to hold the image we want to classify
-let classifier;
-let img;
+// Initialize the Image Classifier method with MobileNet.
+classifier = ml5.imageClassifier("MobileNet");
 
 // Function to load the uploaded image
 function loadImage() {
   const input = document.getElementById('imageUpload').files[0];
+  if (!input) return;
+
   const reader = new FileReader();
   reader.onload = function(e) {
     img = document.getElementById('myImage');
@@ -40,10 +41,6 @@ function loadImage() {
   }
   reader.readAsDataURL(input);
 }
-
-// Initialize the Image Classifier method with MobileNet.
-classifier = ml5.imageClassifier("MobileNet");
-
 // Callback function when classification has finished
 function gotResult(results) {
   // Display the results
