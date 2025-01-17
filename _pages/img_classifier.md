@@ -21,6 +21,7 @@ author_profile: true
 <div id="myResult">Scanning ...</div>
 <img id="myImage" src="../files/pic 1.jpg" width="100%">
 
+
 <script>
 // A variable to hold the image we want to classify
 let classifier;
