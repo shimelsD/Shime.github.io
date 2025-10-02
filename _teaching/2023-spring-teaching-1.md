@@ -2,7 +2,7 @@
 title: "Teaching Fundamentals of Programming(C++)"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2023-spring-teaching-1
+permalink: /teaching/C++_teaching
 venue: "Wollo University, Health Informatics"
 date: 2022/01/01 - 2025
 location: "Dessie, Ethiopia"
