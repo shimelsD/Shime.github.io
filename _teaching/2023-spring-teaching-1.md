@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2023-spring-teaching-1
 venue: "Wollo University, Health Informatics"
-date: 2023/01/01
+date: 2022/01/01 - 2025
 location: "Dessie, Ethiopia"
 ---
 
@@ -15,4 +15,5 @@ In this course, I have been teaching my students about:
  * Arrays and structures
  * C++ Functions 
  * Pointers
+ * File system
  
