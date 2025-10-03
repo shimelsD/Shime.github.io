@@ -1,23 +1,17 @@
-<!-- 
 ---
-title: "Teaching experience 2"
+title: "Geographic Information System(GIS) and Disease mapping"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Undergraduate & graduate course"
+permalink: /teaching/GIS_teaching
+venue: "Wollo University, Health Informatics"
+date: 2022/01/01 - 2025
+location: "Dessie, Ethiopia"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
-
--->
+In this course, I have been teaching my students about:
+ * Basics of Geographic Information Systems and spatial epidemiology 
+ * Maps and Visual Presentation
+ * Geospatial Data/Information and tools 
+ * Map Projections and Digitization 
+ * Spatial analysis and disease mapping
+ * Advanced spatial regression (for graduate students)
