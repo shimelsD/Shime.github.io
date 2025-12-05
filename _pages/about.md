@@ -8,16 +8,39 @@ redirect_from:
   - /about.html
 ---
 <div style="text-align: justify">
-  <hr />
-I'm a lecturer of health informatics at <a href="https://wu.edu.et" target="_blank" > Wollo University</a> since September 2022. I have studied Master of Public Health(MPH) in health informatics from <a href="https://uog.edu.et" target="_blank" >University of Gondar</a>.
-Currently, as a teacher and researcher, my primary focus revolves around utilizing public data repositories for conducting research. I find great value in the abundance of publicly available datasets, which provide opportunities to explore various aspects of public health and generate evidence-based insights. By leveraging these repositories, I aim to delve into critical research questions, analyze trends, and uncover patterns that contribute to our understanding of public health dynamics. This approach allows me to apply my expertise in data analysis, programming, and statistical techniques to extract meaningful information from diverse public health datasets.
+<hr />
+I am a lecturer of Health Informatics at <a href="https://wu.edu.et" target="_blank">Wollo University</a> since September 2022. I completed my Master of Public Health (MPH) in Health Informatics at 
+the <a href="https://uog.edu.et" target="_blank">University of Gondar</a>. My research focuses on applying data science, spatial epidemiology, and machine learning to understand major public health 
+challenges. I primarily work with large public data repositories, using statistical and computational methods to generate evidence on disease patterns, health service utilization, and population-level 
+health outcomes. Through this work, I aim to uncover spatial and temporal trends that inform targeted, data-driven public health decision-making.
 </div>
+
 <div style="text-align: justify">
-In preparation for my future PhD studies, I possess a strong passion for public health and a keen interest in machine learning, programming, and AI in health. I aim to leverage these skills to contribute to cutting-edge advancements in healthcare. Specifically, I am eager to explore the application of machine learning and AI techniques to enhance public health interventions, with a focus on maternal and child health, family planning, and chronic disease. Additionally, I aspire to address health disparities and promote health equity by utilizing machine learning algorithms to understand and mitigate social determinants of health. Throughout my PhD journey, I will prioritize ethical considerations and aim to ensure responsible and inclusive practices in the application of AI and machine learning in public health research and practice. Ultimately, my goal is to make a meaningful impact on public health outcomes, reduce health inequities, and push the boundaries of knowledge in the field.
+I have a strong research experience in maternal, child, and reproductive health. My work in this area explores determinants of maternal continuum of care, family planning outcomes, neonatal and child mortality, and 
+women’s health disparities. These topics remain central to my research identity, and I continue to apply modern analytical 
+approaches including predictive modeling, causal inference, and spatial analysis to generate actionable insights that support improved health outcomes for women and children.
 </div>
+
 <div style="text-align: justify">
-I am also deeply intrigued by the concept of explainable AI. As a potential research focus for my PhD, I am keen to explore methodologies and techniques that can enhance the interpretability and transparency of AI models in healthcare. I recognize the importance of understanding how AI algorithms arrive at their decisions, especially in critical healthcare applications. By investigating explainable AI, I aim to develop methods that provide insights into the reasoning and decision-making processes of AI systems, empowering healthcare professionals and stakeholders to trust and utilize these technologies more effectively. 
+Alongside my work in maternal and child health, I am increasingly focused on infectious diseases, respiratory illnesses, and environmental exposures. I am particularly interested in using GIS and 
+geospatial methods to map disease distribution, evaluate exposure to air pollution, and identify high-risk communities. I also apply machine learning models to predict disease outcomes and study 
+interactions between environmental, biological, and social determinants of health. These research directions reflect my commitment to improving population health using advanced analytic tools.
 </div>
+
+<div style="text-align: justify">
+As I prepare for my future PhD studies, I am passionate about advancing the application of machine learning and AI in public health, with special emphasis on spatial epidemiology, health equity, 
+and infectious disease modeling. I am committed to developing analytical solutions that support evidence-based interventions, reduce health disparities, and strengthen health systems. 
+I also prioritize ethical and responsible use of AI to ensure fairness, transparency, and real-world impact.
+</div>
+
+<div style="text-align: justify">
+I am particularly interested in explainable AI and its role in healthcare. Understanding how AI models make decisions is essential for building trust in clinical and population-health applications.
+ I aim to contribute to methods that enhance model interpretability, such as SHAP, feature interaction analysis, and transparent machine learning frameworks. By combining explainable AI with GIS 
+ and epidemiological modeling, my goal is to deliver insights that are both scientifically rigorous and actionable for policymakers, clinicians, and public health practitioners.
+</div>
+
+
+
 <br/>
 <hr/>
 <br/>
@@ -25,3 +48,7 @@ I am also deeply intrigued by the concept of explainable AI. As a potential rese
 <br/>
 <br/>
 <br/>
+
+
+
+
